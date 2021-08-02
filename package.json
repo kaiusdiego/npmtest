@@ -1,0 +1,19 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "test publishing",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiusdiego/npmtest.git"
+  },
+  "author": "kaiusdiego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiusdiego/npmtest/issues"
+  },
+  "homepage": "https://github.com/kaiusdiego/npmtest#readme"
+}
