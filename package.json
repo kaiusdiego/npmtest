@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kaiusdiego/npmtest/issues"
   },
-  "homepage": "https://github.com/kaiusdiego/npmtest#readme"
+  "homepage": "https://github.com/kaiusdiego/npmtest#readme",
+  "publishConfig": {
+    "registry": "https://github.com/kaiusdiego/npmtest.git"
+  }
 }
